@@ -1,0 +1,22 @@
+{
+  "name": "readme-gerneator",
+  "version": "1.0.0",
+  "description": "Creates a readme.md file for respositories based on user inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamthomas12/README-Generator.git"
+  },
+  "author": "phamthoams12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamthomas12/README-Generator/issues"
+  },
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "homepage": "https://github.com/phamthomas12/README-Generator#readme"
+}

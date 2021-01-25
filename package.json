@@ -1,5 +1,5 @@
 {
-  "name": "readme-gerneator",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "Creates a readme.md file for respositories based on user inputs",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/phamthomas12/README-Generator.git"
   },
-  "author": "phamthoams12",
+  "author": "phamthomas12",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/phamthomas12/README-Generator/issues"
